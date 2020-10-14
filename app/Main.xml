@@ -1,0 +1,302 @@
+﻿<project version="2.9" name="830需求文档" ID="4C52C2C7-BA1B-4002-8AF8-53CF25469DEC">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtBlank" pageSize="(6000,6000)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="文档综述" ID="0AEC43FE-3C03-445F-9486-91DF59421B3D" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="版本记录" ID="CE885E14-5E78-41AF-92B2-406175D11F47" expanded="True" code="nUJMZAhoxr" thumbCode="nUJMZAhoxr" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+          <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+          <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+          <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+          <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+          <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+          <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+          <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+        </images>
+      </page>
+    </page>
+    <page name="视频监控" ID="3DCCEE31-9A78-45AE-8D47-B40B6E9B77E2" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="企业级视频监控" ID="3772DD64-2D5C-404B-B7A4-DDB64976DA0C" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="企业驾驶舱" ID="D9604E54-4E0F-4901-9DF3-995A28DC4D1D" expanded="True" code="5AcrGDCMC8" thumbCode="e4FTbBx81R" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+            <image key="227E6FC861DA45F1D24077D4BFA288C9.svg"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="93E2EEBBA37FC196EFB82B3F702D53E3.png"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+            <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="F4CB9CBCA721A7D0E01AF49EE93FEE20.png"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+          </images>
+          <page name="弹窗表格" ID="12C381D6-0E9A-49BB-8649-8BDD3F4038A7" expanded="True" code="6Wh4pu9pXK" thumbCode="pMPrYwImGr" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+              <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+              <image key="227E6FC861DA45F1D24077D4BFA288C9.svg"/>
+              <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+              <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+              <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+              <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+              <image key="9DBED66EC965941590CF635DF24D272C.png"/>
+              <image key="F0946ECC39DB51E1D2997D91AC582A3D.png"/>
+              <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+              <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+              <image key="F4CB9CBCA721A7D0E01AF49EE93FEE20.png"/>
+              <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+              <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+              <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            </images>
+          </page>
+        </page>
+      </page>
+      <page name="项目级视频监控" ID="23807C7E-7218-4461-ABCD-BFD49616582C" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="视频回放" ID="1D8AC93E-D02C-4727-842D-E330B464D345" expanded="False" code="24HhPmDad1" thumbCode="24HhPmDad1" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+            <image key="D000637DAF0BF0E532134444A14C6EFC.png"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+          </images>
+        </page>
+        <page name="数字工地" ID="EF984190-6F12-498E-B375-D050E2881620" expanded="True" code="Rn8bFOZHcM" thumbCode="Rn8bFOZHcM" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+            <image key="CEB1ACD183455029A0BB910A2D68A665.png"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+          </images>
+          <page name="前台展示" ID="B6475A83-5944-48F8-8D8A-7231340858BE" expanded="True" code="U9gRdDFX5x" thumbCode="U9gRdDFX5x" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+              <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+              <image key="35F80E886F43D187925E80035BD4268D.png"/>
+              <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+              <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+              <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+              <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+              <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+              <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+              <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            </images>
+          </page>
+          <page name="后台配置" ID="DB2662F6-8C2D-4B3B-AA06-E7A4C7C0B5D8" expanded="True" code="8pdEUXFabd" thumbCode="8pdEUXFabd" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+              <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+              <image key="84070B93B83B16B8AC3674BBA4E394FA.png"/>
+              <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+              <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+              <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+              <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+              <image key="B341111A09656671AF3F9BAD4AA1B7B4.gif"/>
+              <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+              <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+              <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            </images>
+          </page>
+          <page name="交互参考" ID="6DE90A33-EB93-4AE4-B3DB-F388CD35CF62" expanded="True" code="VyQrw4nQoC" thumbCode="VyQrw4nQoC" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+              <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+              <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+              <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+              <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+              <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+              <image key="B341111A09656671AF3F9BAD4AA1B7B4.gif"/>
+              <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+              <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+              <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="图片查看" ID="1C89220F-51FF-43D5-9933-C7996DAFC018" expanded="True" code="L1k1hxsavm" thumbCode="L1k1hxsavm" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+            <image key="6F3FACB562C5E98E554A8617C42AF867.png"/>
+            <image key="F72AA650578F6EB24DBC5BBE1CADAEA5.png"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="102A751B0BED44604B4E3E9C5E0BD062.png"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+          </images>
+          <page name="功能说明" ID="9A906EF9-03C8-4B9A-99D4-FE74F367F4EB" expanded="False" code="SuLzCvXPiN" thumbCode="SuLzCvXPiN" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+              <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+              <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+              <image key="19DB5116C2B25BFA1E1FD7D800C3E31B.png"/>
+              <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+              <image key="7A3C485EF6401FE8507AC40969B699EA.png"/>
+              <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+              <image key="7D2584F7BFDF4C87C9C45DFFFE451130.png"/>
+              <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+              <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+              <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+              <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="项目应用分析" ID="7665405C-0CB1-48C7-9DC0-DE79C4931041" expanded="True" code="LNGxMJMhRT" thumbCode="LNGxMJMhRT" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="3E78D1624A8C7942501F215029F2E22B.png"/>
+            <image key="1CDD3502031DB2EB38AF6DA9451E63A5.png"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+          </images>
+        </page>
+        <page name="视频直播现状" ID="324AE792-AA71-464B-AF4A-9B3443994C7F" expanded="True" code="bkKkECPPj7" thumbCode="bkKkECPPj7" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+            <image key="D61578C7D7A4D6E59E02CA4A9B52FE09.png"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="4957756DF2C68081786643C996CC567D.png"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+          </images>
+          <page name="布局优化说明" ID="804FC597-6750-43FA-AAC7-57C536840A40" expanded="True" code="aPnXwaI7sl" thumbCode="LT5v5qro59" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+              <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+              <image key="9EC0DD35C336022FC7A92C19ED4632B6.gif"/>
+              <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+              <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+              <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+              <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+              <image key="CA471ABFE11D5D0F7293CB251B063612.png"/>
+              <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+              <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+              <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="AI报表导出" ID="8EFD7A28-D4D7-4335-B75C-D3A9D17A7A52" expanded="False" code="xGWtygTiyh" thumbCode="xGWtygTiyh" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="移动端app" ID="ADB60EE5-4FBA-4281-A294-7871BFC86917" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="移动端组织列表-难关痛" ID="0BDAB8A6-B481-459D-9203-461C9B7EBAFD" expanded="True" code="S1bHgj71Un" thumbCode="S1bHgj71Un" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+            <image key="07D602A7FDDA0AE141EB58321430B23C.jpg"/>
+            <image key="5D171A14DA3ECE4CFD131122E46A5858.jpg"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="9C96AF27A46BD20925FA5ED4E13B9460.png"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+          </images>
+        </page>
+        <page name="移动端组织列表-说明" ID="5AD5226B-1432-4E0C-A5F3-D0171F07A375" expanded="False" code="gbtG82taOn" thumbCode="gbtG82taOn" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+            <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+            <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+            <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+            <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+            <image key="9C96AF27A46BD20925FA5ED4E13B9460.png"/>
+            <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+            <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+            <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+            <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="页面" ID="919410CA-EA79-459D-82C7-3EE3AD3EE932" expanded="False" code="vdPWlMFlTj" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="07D602A7FDDA0AE141EB58321430B23C.jpg"/>
+    <image key="5D171A14DA3ECE4CFD131122E46A5858.jpg"/>
+    <image key="227E6FC861DA45F1D24077D4BFA288C9.svg"/>
+    <image key="35F80E886F43D187925E80035BD4268D.png"/>
+    <image key="CA471ABFE11D5D0F7293CB251B063612.png"/>
+    <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+    <image key="E4D42B9D9243592CE8BD296BF1EA5069.png"/>
+    <image key="D000637DAF0BF0E532134444A14C6EFC.png"/>
+    <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+    <image key="F4CB9CBCA721A7D0E01AF49EE93FEE20.png"/>
+    <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+    <image key="9C96AF27A46BD20925FA5ED4E13B9460.png"/>
+    <image key="4957756DF2C68081786643C996CC567D.png"/>
+    <image key="3E78D1624A8C7942501F215029F2E22B.png"/>
+    <image key="E9BC305766B471DFFF8260E11E938D6D.svg"/>
+    <image key="34362DDC185CE7DEB9F4DCFE4BF383FD.svg"/>
+    <image key="1CDD3502031DB2EB38AF6DA9451E63A5.png"/>
+    <image key="7D2584F7BFDF4C87C9C45DFFFE451130.png"/>
+    <image key="B341111A09656671AF3F9BAD4AA1B7B4.gif"/>
+    <image key="93E2EEBBA37FC196EFB82B3F702D53E3.png"/>
+    <image key="318986978D15C7BC7BCE4570A0B94F08.svg"/>
+    <image key="9DBED66EC965941590CF635DF24D272C.png"/>
+    <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+    <image key="6F3FACB562C5E98E554A8617C42AF867.png"/>
+    <image key="F0946ECC39DB51E1D2997D91AC582A3D.png"/>
+    <image key="84070B93B83B16B8AC3674BBA4E394FA.png"/>
+    <image key="102A751B0BED44604B4E3E9C5E0BD062.png"/>
+    <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+    <image key="CEB1ACD183455029A0BB910A2D68A665.png"/>
+    <image key="19DB5116C2B25BFA1E1FD7D800C3E31B.png"/>
+    <image key="39D5FA7D6FEB7E443EC557BB7BADE2B9.svg"/>
+    <image key="7A3C485EF6401FE8507AC40969B699EA.png"/>
+    <image key="CDC7B1D91968B8D4EB4E0DE7E8A78918.svg"/>
+    <image key="F72AA650578F6EB24DBC5BBE1CADAEA5.png"/>
+    <image key="D61578C7D7A4D6E59E02CA4A9B52FE09.png"/>
+    <image key="9EC0DD35C336022FC7A92C19ED4632B6.gif"/>
+  </images>
+</project>
